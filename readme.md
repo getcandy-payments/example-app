@@ -8,7 +8,7 @@ Laravel App demonstrating how to use GetCandy Payments.
 - [ ] Stripe
 - [ ] PayPal
 - [ ] SagePay
-- [ ] Klarna
+- [ ] Klarna Checkout
 - [ ] Mollie
 - [ ] Braintree Payments
 
